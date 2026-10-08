@@ -1,8 +1,7 @@
 <h1 align="center">최관우 · Kwan-U Choi</h1>
 
 <p align="center">
-  한양대학교 ERICA 컴퓨터학부 · (주)스피치툴스<br>
-  한국어 음성 AI — STT · 감정 조건화 · ETE/cascade · LLM 결합
+  한양대학교 ERICA 컴퓨터학부 · (주)스피치툴스 연구원<br>
 </p>
 
 <p align="center">
