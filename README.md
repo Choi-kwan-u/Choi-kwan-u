@@ -27,7 +27,7 @@
 
 ### 🧩 Activities
 
-- HY-CoRA (한양대 ERICA 중앙 코딩동아리) 회장
+- HY-CoRA (한양대 ERICA 중앙 코딩동아리) 회장 [Paper](https://github.com/HY-CoRA)
 
 ---
 
