@@ -31,7 +31,7 @@
 
 - **최우수상** — [제1회 한양대학교 ERICA 자율주행 경진대회](https://aic.hanyang.ac.kr/notice/notice.php?ptype=view&idx=1627) (2026.01), 팀 「꼬마자동차 붕붕」
   <sub>주최: 지능형로봇 혁신융합대학 사업단</sub>
-- **가작** — [2025 한대신문 문예상 소설 부문](https://www.hynews.ac.kr/news/articleView.html?idxno=13542) (2025.12), 「백설 공주 독살 사건」
+- **가작** — [2025 한대신문 문예상 소설 부문](https://www.hynews.ac.kr/news/articleView.html?idxno=13533) (2025.12), 「백설 공주 독살 사건」
   <sub>주최: 한대신문</sub>
   
 ### 🧩 Activities
