@@ -28,7 +28,7 @@
 ### 🧩 Activities
 
 -  [HY-CoRA](https://github.com/HY-CoRA) (한양대 ERICA 중앙 코딩동아리) 회장
--  2025 HY-CORA 웹사이트 개발
+-  2025 [HY-CoRA 웹사이트](https://hycora.co.kr/html/general/index.html) 개발
 
 ---
 
