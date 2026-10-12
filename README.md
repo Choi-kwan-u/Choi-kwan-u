@@ -18,7 +18,15 @@
 
 - **최관우**, 김한우. "한국어 음성 응답에서 감정 정보의 텍스트 노출: 주입 방식과 출력 제약의 효과."
   *제38회 한글 및 한국어 정보처리 학술대회 (HCLT 2026)*, 구두발표.
-
+  
+### 💼 Experience
+**(주)스피치툴스** — Speech AI Engineer (2025.05 ~ 현재)
+한국어 음성 AI 파이프라인(STT · LLM · TTS) 설계·구축·운영. 메인 엔지니어.
+- 승강기 고장 신고 접수 AI 콜봇: LangGraph 기반 통화 흐름 설계, 상용화 준비
+- 전화 여론조사용 온프레미스 한국어 STT 게이트웨이 구축
+- 음성 모델 레이어 프로빙 기반 화자 속성(감정·성별·연령) 태깅 기술 검증 → 논문·사업화
+- Owen-asr, chrip3, sense voice, zip former
+  
 ### 🏆 Awards
 
 - **최우수상** — [제1회 한양대학교 ERICA 자율주행 경진대회](https://aic.hanyang.ac.kr/notice/notice.php?ptype=view&idx=1627) (2026.01), 팀 「꼬마자동차 붕붕」
