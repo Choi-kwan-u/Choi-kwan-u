@@ -1,7 +1,7 @@
 <h1 align="center">최관우 · Kwan-U Choi</h1>
 
 <p align="center">
-  한양대학교 ERICA 컴퓨터학부 · (주)스피치툴스 연구원<br>
+  한양대학교 ERICA 컴퓨터학부 · (주)스피치툴스 연구원 및 AI 엔지니어<br>
 </p>
 
 <p align="center">
@@ -21,11 +21,11 @@
   
 ### 💼 Experience
 **(주)스피치툴스** — Speech AI Engineer (2025.05 ~ 현재)
-한국어 음성 AI 파이프라인(STT · LLM · TTS) 설계·구축·운영. 메인 엔지니어.
+한국어 음성 AI 파이프라인(STT · LLM · TTS) 설계·구축·운영. 메인 AI 엔지니어.
 - 승강기 고장 신고 접수 AI 콜봇: LangGraph 기반 통화 흐름 설계, 상용화 준비
 - 전화 여론조사용 온프레미스 한국어 STT 게이트웨이 구축
 - 음성 모델 레이어 프로빙 기반 화자 속성(감정·성별·연령) 태깅 기술 검증 → 논문·사업화
-- Owen-asr, chrip3, sense voice, zip former
+- STT 모델 비교·파인튜닝 (Qwen3-ASR, SenseVoice, Zipformer, Chirp 3 등)
   
 ### 🏆 Awards
 
