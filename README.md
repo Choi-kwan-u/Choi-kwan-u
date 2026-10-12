@@ -21,8 +21,9 @@
 
 ### 🏆 Awards
 
-- **최우수상** — 제1회 한양대학교 ERICA 자율주행 경진대회 (2026.01), 팀 「꼬마자동차 붕붕」
+- **최우수상** — [제1회 한양대학교 ERICA 자율주행 경진대회]("https://aic.hanyang.ac.kr/notice/notice.php?ptype=view&idx=1627") (2026.01), 팀 「꼬마자동차 붕붕」
   <sub>주최: 지능형로봇 혁신융합대학 사업단</sub>
+  
 
 ### 🧩 Activities
 
