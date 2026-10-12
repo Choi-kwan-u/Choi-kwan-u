@@ -38,11 +38,3 @@
 
 -  [HY-CoRA](https://github.com/HY-CoRA) (한양대 ERICA 중앙 코딩동아리) 회장
 -  2025 [HY-CoRA 웹사이트](https://hycora.co.kr/html/general/index.html) 개발
-
----
-
-<p align="center">
-  <a href="mailto:qwer768213g@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
