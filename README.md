@@ -19,7 +19,7 @@
   *제38회 한글 및 한국어 정보처리 학술대회 (HCLT 2026)*, 구두발표.
   
 ### 💼 Experience
-**(주)스피치툴스** — Speech AI Engineer (2025.05 ~ 현재)
+**[(주)스피치툴스](https://speechtools.co.kr/)** — Speech AI Engineer (2025.05 ~ 현재)
 한국어 음성 AI 파이프라인(STT · LLM · TTS) 설계·구축·운영
 - 승강기 고장 신고 접수 AI 콜봇: LangGraph 기반 통화 흐름 설계, 상용화 준비
 - 전화 여론조사용 온프레미스 한국어 STT 게이트웨이 구축
