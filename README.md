@@ -19,7 +19,7 @@
   *제38회 한글 및 한국어 정보처리 학술대회 (HCLT 2026)*, 구두발표.
   
 ### 💼 Experience
-**[(주)스피치툴스](https://speechtools.co.kr/)** — Speech AI Engineer (2025.05 ~ 현재)
+**[(주)스피치툴스](https://speechtools.co.kr/)** — (2025.05 ~ 현재)
 한국어 음성 AI 파이프라인(STT · LLM · TTS) 설계·구축·운영
 - 승강기 고장 신고 접수 AI 콜봇: LangGraph 기반 통화 흐름 설계, 상용화 준비
 - 전화 여론조사용 온프레미스 한국어 STT 게이트웨이 구축
@@ -37,5 +37,5 @@
 
 -  [HY-CoRA](https://github.com/HY-CoRA) (한양대 ERICA 중앙 코딩동아리) 회장
 -  2025 [HY-CoRA 웹사이트](https://hycora.co.kr/html/general/index.html) 개발
--  2026 ASV(안산 사이언스 밸리 축제) 부스 운영 및 [게임 개발](https://hy-cora.github.io/ASV-project/)
+-  2026 ASV(안산 사이언스 밸리 축제) 부스 운영 및 [블록 코딩 교육 게임 개발](https://hy-cora.github.io/ASV-project/)
 
