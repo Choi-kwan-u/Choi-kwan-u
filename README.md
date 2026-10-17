@@ -39,5 +39,5 @@
 
 -  [HY-CoRA](https://github.com/HY-CoRA) (한양대 ERICA 중앙 코딩동아리) 회장
 -  2025 [HY-CoRA 웹사이트](https://hycora.co.kr/html/general/index.html) 개발
--  2026 ASV(안산 사이언스 밸리 축제) 부스 운영 및 [블록 코딩 교육 게임] 기획 및 개발(https://hy-cora.github.io/ASV-project/)
+-  2026 ASV(안산 사이언스 밸리 축제) 부스 운영 및 [블록 코딩 교육 게임](https://hy-cora.github.io/ASV-project/) 기획 및 개발
 
