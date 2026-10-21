@@ -37,10 +37,10 @@
 
 ### 🛠 Projects
 - **[블록 코딩 교육 게임](https://hy-cora.github.io/ASV-project/)** (2026) — 기획·개발
-  안산 사이언스 밸리(ASV) 축제 부스에서 방문객 대상 운영
+  <br>안산 사이언스 밸리(ASV) 축제 부스에서 방문객 대상 운영
   <sub>주최: 첨단분야 혁신융합대학사업(COSS)</sub>
 - **[HY-CoRA 웹사이트](https://hycora.co.kr/html/general/index.html)** (2025) — 개발
-  한양대 ERICA 중앙 코딩동아리 공식 웹사이트
+  <br>한양대 ERICA 중앙 코딩동아리 공식 웹사이트
 
   
 ### 🧩 Activities
