@@ -36,6 +36,8 @@
   <sub>주최: 한양대학교 한대신문사</sub>
 
 ### 🛠 Projects
+- **[kocer](https://github.com/Choi-kwan-u/kocer)** (2026) — 개발 · Python
+  한국어 STT 평가용 정규화 CER 도구 (숫자·음차·띄어쓰기·문장부호 정규화)
 - **[사진 추리 게임](https://choi-kwan-u.github.io/Mystery-Game/ko/)**(2026) 웹사이트 개발
 - **[블록 코딩 교육 게임](https://hy-cora.github.io/ASV-project/)** (2026) — 기획·개발
   <br>안산 사이언스 밸리(ASV) 축제 부스에서 방문객 대상 운영
