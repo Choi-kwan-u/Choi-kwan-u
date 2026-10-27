@@ -21,6 +21,7 @@
   *제38회 한글 및 한국어 정보처리 학술대회 (HCLT 2026)*, 구두발표.
   
 ### 💼 Experience
+
 **[(주)스피치툴스](https://speechtools.co.kr/)** — AI Engineer (2025.05 ~ 현재)<br>
 한국어 음성 AI 파이프라인(STT · LLM · TTS) 설계·구축·운영
 - 승강기 고장 신고 접수 AI 콜봇: LangGraph 기반 통화 흐름 설계, 상용화 준비
@@ -28,6 +29,11 @@
 - 음성 모델 레이어 프로빙 기반 화자 속성(감정·성별·연령) 태깅 기술 검증
 - STT 모델 비교·파인튜닝 (Qwen3-ASR, SenseVoice, Zipformer, Chirp 3 등)
   
+### 🔬 Open Source
+
+**[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 평가용 정규화 CER 도구 (2026)
+- 숫자·음차·띄어쓰기·문장부호 정규화로 "맞게 들은 걸 틀렸다고 채점하는" 문제 보정 · `pip install kocer`
+
 ### 🏆 Awards
 
 - **최우수상** — [제1회 한양대학교 ERICA 자율주행 경진대회](https://aic.hanyang.ac.kr/notice/notice.php?ptype=view&idx=1627) (2026.01), 팀 「꼬마자동차 붕붕」
@@ -36,8 +42,6 @@
   <sub>주최: 한양대학교 한대신문사</sub>
 
 ### 🛠 Projects
-- **[kocer](https://github.com/Choi-kwan-u/kocer)** (2026) — 오픈소스 개발
-  <br>Python 한국어 STT 평가용 정규화 CER 도구 (숫자·음차·띄어쓰기·문장부호 정규화) · `pip install kocer`
 - **[블록 코딩 교육 게임](https://hy-cora.github.io/ASV-project/)** (2026) — 기획·개발
   <br>안산 사이언스 밸리(ASV) 축제 부스에서 방문객 대상 운영
   <sub>주최: 첨단분야 혁신융합대학사업(COSS)</sub>
