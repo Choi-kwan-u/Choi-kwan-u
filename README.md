@@ -31,8 +31,8 @@
   
 ### 🔬 Open Source
 
-**[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 평가용 정규화 CER 도구 (2026)
-- 숫자·음차·띄어쓰기·문장부호 정규화로 "맞게 들은 걸 틀렸다고 채점하는" 문제 보정 · `pip install kocer`
+- **[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 평가용 정규화 CER 도구 (2026)
+<br>숫자·음차·띄어쓰기·문장부호 정규화로 "맞게 들은 걸 틀렸다고 채점하는" 문제 보정 · `pip install kocer`
 
 ### 🏆 Awards
 
