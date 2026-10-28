@@ -31,8 +31,8 @@
   
 ### 🔬 Open Source
 
-**[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 오류 진단 도구 (2026)
-- CER 오류 중 숫자·음차·띄어쓰기·문장부호 같은 **표기 차이**와 **실제 인식 오류**를 분리해서 보여줌 · `pip install kocer`
+- **[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 오류 진단 도구 (2026)
+<br>CER 오류 중 숫자·음차·띄어쓰기·문장부호 같은 **표기 차이**와 **실제 인식 오류**를 분리해서 보여줌 · `pip install kocer`
 
 ### 🏆 Awards
 
