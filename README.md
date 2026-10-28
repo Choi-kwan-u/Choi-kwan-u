@@ -41,7 +41,8 @@
   <sub>주최: 한양대학교 한대신문사</sub>
 
 ### 🛠 Projects
-- **[사진 추리 게임 웹사이트](https://choi-kwan-u.github.io/Mystery-Game/ko/)**(2026) - 개발
+- **[사진 추리 게임](https://choi-kwan-u.github.io/Mystery-Game/ko/)** (2026) — 기획·개발
+  <br>AI 생성 인물 사진 속 단서로 직업을 추리하고, AI의 추리와 비교하는 웹 게임
 - **[블록 코딩 교육 게임](https://hy-cora.github.io/ASV-project/)** (2026) — 기획·개발
   <br>안산 사이언스 밸리(ASV) 축제 부스에서 방문객 대상 운영
   <sub>주최: 첨단분야 혁신융합대학사업(COSS)</sub>
