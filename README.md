@@ -29,7 +29,7 @@
 - 음성 모델 레이어 프로빙 기반 화자 속성(감정·성별·연령) 태깅 기술 검증
 - STT 모델 비교·파인튜닝 (Qwen3-ASR, SenseVoice, Zipformer, Chirp 3 등)
   
-### 🔬 Open Source
+### 👓 Open Source
 
 - **[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 오류 진단 도구 (2026)
 <br>CER 오류 중 숫자·음차·띄어쓰기·문장부호 같은 **표기 차이**와 **실제 인식 오류**를 분리해서 보여줌 · `pip install kocer`
