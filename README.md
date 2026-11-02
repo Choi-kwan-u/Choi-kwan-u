@@ -13,6 +13,12 @@
 
 ---
 
+### 👓 Open Source
+
+- **[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 오류 진단 도구 (2026)
+<br>CER 오류 중 숫자·음차·띄어쓰기·문장부호 같은 **표기 차이**와 **실제 인식 오류**를 분리해서 보여줌 · `pip install kocer`
+<br>공개 STT 모델 카드 평가에 채택: [BuzzASR](https://huggingface.co/BuzzASR/korean) [qwen3_asr_1.7b_ko](https://huggingface.co/TeamUNIVA/qwen3_asr_1.7b_ko)
+
 ### 📄 Publications
 
 - **최관우**, 김한우. "동결 음성 프로브의 배포 붕괴와 복구 조건: 화자 속성 태깅 실측."
@@ -28,11 +34,6 @@
 - 전화 여론조사 실시간 STT 게이트웨이 구축 (온프레미스): 5초 발화 응답 1초 이내
 - 방송 실시간 자막 시스템 구축: 24시간 연속 부하 시험에서 지연·메모리 변화 없이 무중단 통과
   
-### 👓 Open Source
-
-- **[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 오류 진단 도구 (2026)
-<br>CER 오류 중 숫자·음차·띄어쓰기·문장부호 같은 **표기 차이**와 **실제 인식 오류**를 분리해서 보여줌 · `pip install kocer`
-
 ### 🏆 Awards
 
 - **최우수상** — [제1회 한양대학교 ERICA 자율주행 경진대회](https://aic.hanyang.ac.kr/notice/notice.php?ptype=view&idx=1627) (2026.01), 팀 「꼬마자동차 붕붕」
