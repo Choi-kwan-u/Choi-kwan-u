@@ -17,7 +17,7 @@
 
 - **[kocer](https://github.com/Choi-kwan-u/kocer)** — 한국어 STT 오류 진단 도구 (2026)
 <br>CER 오류 중 숫자·음차·띄어쓰기·문장부호 같은 **표기 차이**와 **실제 인식 오류**를 분리해서 보여줌 · `pip install kocer`
-<br>공개 STT 모델 2종의 모델 카드에 평가 도구·개발자 크레딧 등재: [BuzzASR/korean](https://huggingface.co/BuzzASR/korean) · [TeamUNIVA/qwen3_asr_1.7b_ko](https://huggingface.co/TeamUNIVA/qwen3_asr_1.7b_ko)
+<br>공개 STT 모델 3종의 모델 카드 평가에 kocer 사용: [BuzzASR/korean](https://huggingface.co/BuzzASR/korean) · [ThakiCloud/Thaki-ASR-KO-1.7B](https://huggingface.co/ThakiCloud/Thaki-ASR-KO-1.7B) · [TeamUNIVA/qwen3_asr_1.7b_ko](https://huggingface.co/TeamUNIVA/qwen3_asr_1.7b_ko)
 <br>BuzzASR 한국어 평가 분석이 공식 권장 디코딩 설정 변경에 반영
 
 ### 📄 Publications
